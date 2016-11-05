@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    margin-top: 60px;
+    margin-top: 5px;
 }
 
 .center {
@@ -15,8 +15,8 @@ body {
     font-weight: bold;
 }
 
-.img-medium {
-    height: 200px;
+.img-large {
+    height: 100px;
 }
 
 .container {
