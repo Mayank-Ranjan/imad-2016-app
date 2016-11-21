@@ -8,8 +8,8 @@ var session = require('express-session');
 
 // commit
 var config = {
-    user: 'coco98',
-    database: 'coco98',
+    user: 'mayank-ranjan',
+    database: 'mayank-ranjan',
     host: 'db.imad.hasura-app.io',
     port: '5432',
     password: process.env.DB_PASSWORD
